@@ -1,0 +1,5 @@
+CNN:Conolutional Neural Network
+ANN:Artificical Neural Network
+
+
+we wan tsome data and tgen we rwmove unwamted data and then labelling and include dummy data amd training and testing and and done feature caling .
